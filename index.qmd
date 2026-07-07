@@ -4,49 +4,97 @@ subtitle: "Departamento de Derecho · Facultad de Ciencias Económicas · Univer
 ---
 
 ::: {.hero}
+
 # Derecho Crediticio, Bursátil e Insolvencia
 
 ::: {.subtitle}
 **Departamento de Derecho · Facultad de Ciencias Económicas · Universidad de Buenos Aires**  
-**Curso de Invierno 2026 · Prof. Maximiliano Lucas Romei**
+**Curso Intensivo · Invierno 2026**  
+**Prof. Maximiliano Lucas Romei**
 :::
 
-::: {.badge-row}
-<span class="badge-soft">6 de julio al 7 de agosto</span>
-<span class="badge-soft">Martes presencial · 19 a 22</span>
-<span class="badge-soft">Miércoles virtual · 19 a 22</span>
-<span class="badge-soft">Sábado presencial · 9 a 12</span>
 :::
+
+::: {.callout-important appearance="simple"}
+
+## 📢 Información importante
+
+### 📅 Régimen de cursada
+
+| Día | Modalidad | Horario |
+|:---|:---|:---:|
+| **Martes** | Presencial | **19:00 – 22:00** |
+| **Miércoles** | Virtual | **19:00 – 22:00** |
+| **Sábados** | Presencial | **09:00 – 12:00** |
+
+### 📝 Cronograma de evaluaciones
+
+| Fecha | Actividad |
+|:---|:---|
+| **08/07** | Publicación del Trabajo Práctico Domiciliario *(virtual)* |
+| **11/07** | Parcialito 1 |
+| **14/07** | Parcialito 2 |
+| **18/07** | **Primer Parcial + Entrega del Trabajo Práctico** *(clase asincrónica)* |
+| **22/07** | Parcialito 3 *(virtual)* |
+| **25/07** | Parcialito 4 |
+| **28/07** | Parcialito 5 |
+| **01/08** | **Segundo Parcial** |
+| **05/08** | **Examen Final** |
+
+### ⭐ Régimen de aprobación
+
+- Para rendir cada **examen parcial** deberá haberse realizado previamente **al menos dos actividades de seguimiento** (parcialitos y/o Trabajo Práctico, según corresponda).
+- Para rendir el **examen final** será necesario haber aprobado **al menos uno de los dos exámenes parciales**.
+- Las calificaciones obtenidas en los **cinco parcialitos** y en el **Trabajo Práctico** se promediarán para obtener la nota de **Seguimiento Continuo**.
+- Si ese promedio resulta **superior** a la nota obtenida en un examen parcial, **la calificación del parcial se incrementará automáticamente en un (1) punto**.
+
 :::
 
 ::: {.callout-warning}
 ## Aviso para la cursada
 
-Este sitio reúne el material de apoyo para las clases: cronograma, presentaciones, legislación, jurisprudencia, casos prácticos y pautas de evaluación. El contenido se irá actualizando durante el curso.
+Este sitio reúne el material utilizado durante el curso: cronograma, presentaciones, legislación, jurisprudencia, casos prácticos y pautas de evaluación. El contenido se actualizará progresivamente a medida que avance la cursada.
 :::
 
 ## Acceso rápido
 
 ::: {.cards}
-<a class="card-link" href="cronograma.html"><div class="card-title">📅 Cronograma</div><p class="card-text">Fechas, modalidad y temas de cada encuentro.</p></a>
-<a class="card-link" href="programa.html"><div class="card-title">📚 Programa</div><p class="card-text">Ejes de la materia y contenidos principales.</p></a>
-<a class="card-link" href="legislacion.html"><div class="card-title">📖 Legislación</div><p class="card-text">Normas básicas para seguir la cursada.</p></a>
-<a class="card-link" href="jurisprudencia.html"><div class="card-title">⚖️ Jurisprudencia</div><p class="card-text">Fallos y criterios para trabajar en clase.</p></a>
-<a class="card-link" href="evaluaciones.html"><div class="card-title">📝 Evaluaciones</div><p class="card-text">Pautas, parciales y recuperatorios.</p></a>
-<a class="card-link" href="clases/clase01.html"><div class="card-title">🎓 Primera clase</div><p class="card-text">Crédito, crisis, ejecución individual y colectiva.</p></a>
+
+<a class="card-link" href="cronograma.html">
+<div class="card-title">📅 Cronograma</div>
+<p class="card-text">Fechas, modalidad y temas de cada encuentro.</p>
+</a>
+
+<a class="card-link" href="programa.html">
+<div class="card-title">📚 Programa</div>
+<p class="card-text">Contenidos de la asignatura y organización temática.</p>
+</a>
+
+<a class="card-link" href="legislacion.html">
+<div class="card-title">📖 Legislación</div>
+<p class="card-text">Normativa básica para el seguimiento de la materia.</p>
+</a>
+
+<a class="card-link" href="jurisprudencia.html">
+<div class="card-title">⚖️ Jurisprudencia</div>
+<p class="card-text">Selección de fallos relevantes.</p>
+</a>
+
+<a class="card-link" href="evaluaciones.html">
+<div class="card-title">📝 Evaluaciones</div>
+<p class="card-text">Parcialitos, parciales, TP y criterios de aprobación.</p>
+</a>
+
+<a class="card-link" href="clases/clase01.html">
+<div class="card-title">🎓 Primera clase</div>
+<p class="card-text">Crédito, crisis, ejecución individual y ejecución colectiva.</p>
+</a>
+
 :::
-
-## Organización del curso
-
-| Día | Modalidad | Horario |
-|---|---:|---:|
-| Martes | Presencial | 19:00 a 22:00 |
-| Miércoles | Virtual | 19:00 a 22:00 |
-| Sábado | Presencial | 9:00 a 12:00 |
 
 ## Ejes de trabajo
 
-- Teoría general del crédito y crisis patrimonial.
+- Teoría general del crédito y de la crisis patrimonial.
 - Títulos valores y función económica del crédito.
 - Concurso preventivo: apertura, efectos, verificación y acuerdo.
 - Quiebra: sentencia, efectos, ineficacias, responsabilidad, liquidación y distribución.
