@@ -1,0 +1,32 @@
+---
+title: "Clase 11 · Extensión y responsabilidad"
+subtitle: "Derecho Crediticio, Bursátil e Insolvencia · FCE UBA"
+---
+
+::: {.session}
+### Tema central
+
+Extensión de la quiebra. Responsabilidad de representantes, administradores y terceros.
+:::
+
+## Objetivos de la clase
+
+- Ubicar el tema dentro de la estructura general de la materia.
+- Identificar las normas centrales aplicables.
+- Relacionar los conceptos con casos prácticos.
+- Preparar una síntesis útil para evaluación.
+
+## Guía de lectura
+
+Completar con bibliografía, artículos y fallos indicados en clase.
+
+## Material de clase
+
+Aquí se incorporarán las diapositivas, esquemas, casos y recursos complementarios.
+
+## Preguntas orientadoras
+
+1. ¿Cuál es el problema jurídico principal del tema?
+2. ¿Qué norma debe consultarse en primer lugar?
+3. ¿Qué diferencia este instituto de otros similares?
+4. ¿Cómo se aplicaría en un caso práctico?

@@ -1,0 +1,41 @@
+---
+title: "Jurisprudencia"
+---
+
+::: {.callout-note}
+## Modo de trabajo
+
+La jurisprudencia se irá incorporando durante el curso. La idea es trabajar los fallos como herramientas para resolver casos y no como mera cita memorística.
+:::
+
+## Concurso preventivo
+
+- Cesación de pagos.
+- Sujetos concursables.
+- Efectos de la apertura.
+- Pronto pago laboral.
+- Verificación de créditos.
+- Homologación, impugnación y nulidad.
+
+## Quiebra
+
+- Pedido de quiebra.
+- Conversión.
+- Desapoderamiento.
+- Período de sospecha.
+- Ineficacias.
+- Extensión de la quiebra.
+- Responsabilidad de administradores y terceros.
+
+## Continuación de la explotación y cooperativas
+
+- Continuidad de la empresa.
+- Cooperativas de trabajo.
+- Efectos laborales de la quiebra.
+
+## Títulos valores
+
+- Cheque.
+- Pagaré.
+- Letra de cambio.
+- Acciones cambiarias, causales y enriquecimiento sin causa.

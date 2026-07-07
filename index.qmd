@@ -1,0 +1,53 @@
+---
+title: "Derecho Crediticio, Bursátil e Insolvencia"
+subtitle: "Departamento de Derecho · Facultad de Ciencias Económicas · Universidad de Buenos Aires"
+---
+
+::: {.hero}
+# Derecho Crediticio, Bursátil e Insolvencia
+
+::: {.subtitle}
+**Departamento de Derecho · Facultad de Ciencias Económicas · Universidad de Buenos Aires**  
+**Curso de Invierno 2026 · Prof. Maximiliano Lucas Romei**
+:::
+
+::: {.badge-row}
+<span class="badge-soft">6 de julio al 7 de agosto</span>
+<span class="badge-soft">Martes presencial · 19 a 22</span>
+<span class="badge-soft">Miércoles virtual · 19 a 22</span>
+<span class="badge-soft">Sábado presencial · 9 a 12</span>
+:::
+:::
+
+::: {.callout-warning}
+## Aviso para la cursada
+
+Este sitio reúne el material de apoyo para las clases: cronograma, presentaciones, legislación, jurisprudencia, casos prácticos y pautas de evaluación. El contenido se irá actualizando durante el curso.
+:::
+
+## Acceso rápido
+
+::: {.cards}
+<a class="card-link" href="cronograma.html"><div class="card-title">📅 Cronograma</div><p class="card-text">Fechas, modalidad y temas de cada encuentro.</p></a>
+<a class="card-link" href="programa.html"><div class="card-title">📚 Programa</div><p class="card-text">Ejes de la materia y contenidos principales.</p></a>
+<a class="card-link" href="legislacion.html"><div class="card-title">📖 Legislación</div><p class="card-text">Normas básicas para seguir la cursada.</p></a>
+<a class="card-link" href="jurisprudencia.html"><div class="card-title">⚖️ Jurisprudencia</div><p class="card-text">Fallos y criterios para trabajar en clase.</p></a>
+<a class="card-link" href="evaluaciones.html"><div class="card-title">📝 Evaluaciones</div><p class="card-text">Pautas, parciales y recuperatorios.</p></a>
+<a class="card-link" href="clases/clase01.html"><div class="card-title">🎓 Primera clase</div><p class="card-text">Crédito, crisis, ejecución individual y colectiva.</p></a>
+:::
+
+## Organización del curso
+
+| Día | Modalidad | Horario |
+|---|---:|---:|
+| Martes | Presencial | 19:00 a 22:00 |
+| Miércoles | Virtual | 19:00 a 22:00 |
+| Sábado | Presencial | 9:00 a 12:00 |
+
+## Ejes de trabajo
+
+- Teoría general del crédito y crisis patrimonial.
+- Títulos valores y función económica del crédito.
+- Concurso preventivo: apertura, efectos, verificación y acuerdo.
+- Quiebra: sentencia, efectos, ineficacias, responsabilidad, liquidación y distribución.
+- Mercado de capitales y derecho bursátil como dimensión institucional del crédito.

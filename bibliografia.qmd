@@ -1,0 +1,20 @@
+---
+title: "Bibliografía"
+---
+
+## Bibliografía de referencia
+
+La bibliografía obligatoria y complementaria será indicada por la cátedra durante el curso.
+
+## Ejes sugeridos de lectura
+
+- Derecho concursal argentino.
+- Títulos valores.
+- Derecho bursátil y mercado de capitales.
+- Jurisprudencia concursal relevante.
+
+::: {.callout-tip}
+## Sugerencia
+
+Para seguir las clases, la herramienta principal es la Ley 24.522. La lectura doctrinaria debe acompañar el estudio artículo por artículo.
+:::

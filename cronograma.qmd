@@ -1,0 +1,33 @@
+---
+title: "Cronograma"
+subtitle: "Curso de Invierno 2026"
+---
+
+::: {.callout-note}
+## Criterio
+
+Cronograma tentativo sujeto a ajustes según el desarrollo de la cursada. Los miércoles son virtuales; martes y sábados son presenciales.
+:::
+
+| Clase | Fecha | Día | Modalidad | Horario | Tema |
+|---:|---|---|---|---|---|
+| 1 | 07/07/2026 | Martes | Presencial | 19:00–22:00 | Presentación del curso. Teoría del crédito. Crisis patrimonial. Ejecución individual y colectiva. Cesación de pagos. |
+| 2 | 08/07/2026 | Miércoles | Virtual | 19:00–22:00 | Sujetos concursables. Competencia. Concursos en el extranjero. Presupuestos del concurso. |
+| 3 | 11/07/2026 | Sábado | Presencial | 9:00–12:00 | Presentación en concurso. Requisitos. Auto de apertura. Desistimiento. |
+| 4 | 14/07/2026 | Martes | Presencial | 19:00–22:00 | Efectos de la apertura. Pronto pago laboral. Intereses. Ineficacias. |
+| 5 | 15/07/2026 | Miércoles | Virtual | 19:00–22:00 | Títulos valores. Función económica. Caracteres. Cheque, pagaré y letra de cambio. |
+| 6 | 18/07/2026 | Sábado | Presencial | 9:00–12:00 | Verificación de créditos. Observaciones. Informe individual. Resolución judicial. |
+| 7 | 21/07/2026 | Martes | Presencial | 19:00–22:00 | Informe general. Categorización. Propuestas. Mayorías. Impugnación y nulidad del acuerdo. |
+| 8 | 22/07/2026 | Miércoles | Virtual | 19:00–22:00 | Concurso por agrupamiento. Acuerdo preventivo extrajudicial. Introducción a la quiebra. |
+| 9 | 25/07/2026 | Sábado | Presencial | 9:00–12:00 | Quiebra. Clases. Sentencia. Conversión. Recursos. Efectos personales y patrimoniales. |
+| 10 | 28/07/2026 | Martes | Presencial | 19:00–22:00 | Desapoderamiento. Período de sospecha. Ineficacias concursales. Revocatoria civil. |
+| 11 | 29/07/2026 | Miércoles | Virtual | 19:00–22:00 | Extensión de la quiebra. Responsabilidad de representantes y terceros. Acciones societarias. |
+| 12 | 01/08/2026 | Sábado | Presencial | 9:00–12:00 | Privilegios. Intereses. Compensación. Derecho de retención. Ejercicios. |
+| 13 | 04/08/2026 | Martes | Presencial | 19:00–22:00 | Incautación, conservación y administración. Continuación de la explotación. Contrato de trabajo. Cooperativa. |
+| 14 | 05/08/2026 | Miércoles | Virtual | 19:00–22:00 | Liquidación. Informe final y distribución. Conclusión y clausura. Funcionarios. Repaso integrador. |
+
+::: {.callout-important}
+## Evaluaciones
+
+Las fechas de parcial, recuperatorio y final se informarán por los canales oficiales de la cátedra y se incorporarán aquí cuando queden confirmadas.
+:::

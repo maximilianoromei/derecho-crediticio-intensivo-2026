@@ -1,0 +1,99 @@
+/*-- scss:defaults --*/
+$primary: #F58220;
+$secondary: #2F2F2F;
+$orange: #F58220;
+$body-bg: #fffaf5;
+$link-color: #C65F00;
+$font-family-sans-serif: "Inter", "Segoe UI", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+
+/*-- scss:rules --*/
+:root{
+  --fce-orange: #F58220;
+  --fce-orange-dark: #C65F00;
+  --fce-orange-light: #FFF0E0;
+  --ink: #2f2f2f;
+  --muted: #666666;
+  --card: #ffffff;
+}
+
+body { color: var(--ink); }
+
+.hero {
+  border-radius: 28px;
+  padding: 3rem 2.5rem;
+  margin: 1.5rem 0 2rem 0;
+  background: linear-gradient(135deg, #F58220 0%, #FFB15C 55%, #FFF3E6 100%);
+  color: #1f1f1f;
+  box-shadow: 0 18px 40px rgba(126, 70, 15, 0.18);
+}
+
+.hero h1 {
+  font-size: clamp(2.2rem, 4vw, 4rem);
+  line-height: 1.02;
+  margin-bottom: 1rem;
+  font-weight: 800;
+}
+
+.hero .subtitle {
+  font-size: 1.15rem;
+  max-width: 880px;
+}
+
+.badge-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .65rem;
+  margin-top: 1.35rem;
+}
+
+.badge-soft {
+  background: rgba(255,255,255,.72);
+  border: 1px solid rgba(255,255,255,.9);
+  border-radius: 999px;
+  padding: .45rem .8rem;
+  font-weight: 650;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2rem 0;
+}
+
+.card-link {
+  display: block;
+  background: var(--card);
+  border: 1px solid #f2d4b8;
+  border-left: 6px solid var(--fce-orange);
+  border-radius: 18px;
+  padding: 1.1rem 1.1rem 1rem 1.1rem;
+  text-decoration: none;
+  color: var(--ink);
+  box-shadow: 0 10px 25px rgba(0,0,0,.045);
+}
+.card-link:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 14px 28px rgba(0,0,0,.08);
+}
+.card-title { font-size: 1.1rem; font-weight: 800; margin-bottom: .25rem; }
+.card-text { color: var(--muted); margin: 0; }
+
+.callout-warning, .callout-note, .callout-tip, .callout-important {
+  border-radius: 16px;
+}
+
+.table thead th, table thead th {
+  background: var(--fce-orange-light);
+}
+
+.session {
+  border-left: 5px solid var(--fce-orange);
+  background: #fff;
+  padding: 1rem 1.25rem;
+  border-radius: 0 16px 16px 0;
+  margin-bottom: 1rem;
+}
+
+.session h3 { margin-top: 0; }
+.small-muted { color: var(--muted); font-size: .95rem; }

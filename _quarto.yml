@@ -1,0 +1,68 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Derecho Crediticio, Bursátil e Insolvencia"
+  site-url: "https://maximilianoromei.github.io/derecho-crediticio-bursatil-insolvencia/"
+  navbar:
+    background: "#F58220"
+    foreground: "#ffffff"
+    left:
+      - text: "Inicio"
+        href: index.qmd
+      - text: "Cronograma"
+        href: cronograma.qmd
+      - text: "Programa"
+        href: programa.qmd
+      - text: "Clases"
+        menu:
+          - text: "Clase 1 · Crédito, crisis y cesación de pagos"
+            href: clases/clase01.qmd
+          - text: "Clase 2 · Sujetos, competencia y concursos en el extranjero"
+            href: clases/clase02.qmd
+          - text: "Clase 3 · Presentación concursal y apertura"
+            href: clases/clase03.qmd
+          - text: "Clase 4 · Efectos de la apertura y pronto pago"
+            href: clases/clase04.qmd
+          - text: "Clase 5 · Títulos valores"
+            href: clases/clase05.qmd
+          - text: "Clase 6 · Verificación de créditos"
+            href: clases/clase06.qmd
+          - text: "Clase 7 · Informe general y categorización"
+            href: clases/clase07.qmd
+          - text: "Clase 8 · Quiebra"
+            href: clases/clase08.qmd
+          - text: "Clase 9 · Recursos, conversión y efectos"
+            href: clases/clase09.qmd
+          - text: "Clase 10 · Período de sospecha e ineficacias"
+            href: clases/clase10.qmd
+          - text: "Clase 11 · Extensión y responsabilidad"
+            href: clases/clase11.qmd
+          - text: "Clase 12 · Privilegios"
+            href: clases/clase12.qmd
+          - text: "Clase 13 · Liquidación, informe final y distribución"
+            href: clases/clase13.qmd
+          - text: "Clase 14 · Repaso integrador"
+            href: clases/clase14.qmd
+      - text: "Legislación"
+        href: legislacion.qmd
+      - text: "Jurisprudencia"
+        href: jurisprudencia.qmd
+      - text: "Evaluaciones"
+        href: evaluaciones.qmd
+  page-footer:
+    left: "Maximiliano Lucas Romei · Departamento de Derecho · FCE · UBA"
+    right: "Curso de Invierno 2026"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - assets/styles.scss
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+    link-external-newwindow: true
+    code-copy: true
+    lang: es
