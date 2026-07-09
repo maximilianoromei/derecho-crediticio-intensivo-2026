@@ -1,32 +1,49 @@
 ---
-title: "Clase 1 · Crédito, crisis y cesación de pagos"
-subtitle: "Derecho Crediticio, Bursátil e Insolvencia · FCE UBA"
+title: "Clase 1 — Introducción al Derecho Crediticio"
 ---
 
-::: {.session}
-### Tema central
+# Clase 1 — Introducción al Derecho Crediticio
 
-Teoría del crédito. Crisis patrimonial. Ejecución individual y colectiva. Cesación de pagos.
-:::
+## Material de la clase
 
-## Objetivos de la clase
+Durante este primer encuentro trabajaremos sobre la evolución del crédito, los principios que inspiran el Derecho Concursal y los presupuestos objetivos y subjetivos del concurso preventivo.
 
-- Ubicar el tema dentro de la estructura general de la materia.
-- Identificar las normas centrales aplicables.
-- Relacionar los conceptos con casos prácticos.
-- Preparar una síntesis útil para evaluación.
+---
 
-## Guía de lectura
+## 📽 Línea de tiempo
 
-Completar con bibliografía, artículos y fallos indicados en clase.
+[▶️ Abrir presentación](https://docs.google.com/presentation/d/1PC0PrFOGK-oR7VgljDOjxRvEukWRR_y01HkBiLpaZxU/edit?usp=sharing)
 
-## Material de clase
+---
 
-Aquí se incorporarán las diapositivas, esquemas, casos y recursos complementarios.
+## 📽 Presentación del curso · Principios · Procesos
 
-## Preguntas orientadoras
+[▶️ Abrir presentación](https://docs.google.com/presentation/d/1-zngD4unOgPnxfbYlFwtdxBfLo4GyFxO/edit?usp=sharing&ouid=108779643783230531258&rtpof=true&sd=true)
 
-1. ¿Cuál es el problema jurídico principal del tema?
-2. ¿Qué norma debe consultarse en primer lugar?
-3. ¿Qué diferencia este instituto de otros similares?
-4. ¿Cómo se aplicaría en un caso práctico?
+---
+
+## 📽 Presupuestos del concurso preventivo
+
+[▶️ Abrir presentación](https://docs.google.com/presentation/d/1fkuD6TJsiveX-I1v4kPb5OoVJ2pt5_a6/edit?usp=sharing&ouid=108779643783230531258&rtpof=true&sd=true)
+
+---
+
+## Bibliografía
+
+- Rouillón, *Régimen de Concursos y Quiebras*.
+- Junyent Bas.
+- Frick.
+- Ley 24.522.
+
+---
+
+## Legislación
+
+- Ley 24.522.
+- Código Civil y Comercial de la Nación.
+
+---
+
+## Material complementario
+
+El resto del material utilizado durante la cursada será incorporado progresivamente en este sitio.

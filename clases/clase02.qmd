@@ -1,32 +1,57 @@
 ---
-title: "Clase 2 · Sujetos, competencia y concursos en el extranjero"
-subtitle: "Derecho Crediticio, Bursátil e Insolvencia · FCE UBA"
+title: "Clase 2 — Apertura y efectos del concurso preventivo"
 ---
 
-::: {.session}
-### Tema central
+# Clase 2 — Apertura y efectos del concurso preventivo
 
-Sujetos concursables. Jurisdicción y competencia. Concursos con elementos internacionales.
-:::
+## Material de la clase
 
-## Objetivos de la clase
+---
 
-- Ubicar el tema dentro de la estructura general de la materia.
-- Identificar las normas centrales aplicables.
-- Relacionar los conceptos con casos prácticos.
-- Preparar una síntesis útil para evaluación.
+## 📽 Efectos del concurso preventivo (Parte I)
 
-## Guía de lectura
+[▶️ Abrir presentación](https://docs.google.com/presentation/d/1fkuD6TJsiveX-I1v4kPb5OoVJ2pt5_a6/edit?usp=sharing&ouid=108779643783230531258&rtpof=true&sd=true)
 
-Completar con bibliografía, artículos y fallos indicados en clase.
+---
 
-## Material de clase
+## 📽 Efectos del concurso preventivo (Parte II)
 
-Aquí se incorporarán las diapositivas, esquemas, casos y recursos complementarios.
+[▶️ Abrir presentación](https://docs.google.com/presentation/d/19Dt-vm6YMRt1PAPr4nz9iksqoIeMGeVu/edit?usp=sharing&ouid=108779643783230531258&rtpof=true&sd=true)
 
-## Preguntas orientadoras
+---
 
-1. ¿Cuál es el problema jurídico principal del tema?
-2. ¿Qué norma debe consultarse en primer lugar?
-3. ¿Qué diferencia este instituto de otros similares?
-4. ¿Cómo se aplicaría en un caso práctico?
+## 📽 Pronto pago
+
+[▶️ Abrir presentación](https://docs.google.com/presentation/d/1Jsm7qoJ7Y3-syJjQzIkIqI7ECaC-BfK-/edit?usp=sharing&ouid=108779643783230531258&rtpof=true&sd=true)
+
+---
+
+## 📽 Apertura del concurso preventivo
+
+[▶️ Abrir presentación](https://docs.google.com/presentation/d/18CTLOWPM3QrX3aY3go_VNJEpN4XbQnzUPvLxp19Xtvo/edit?usp=sharing)
+
+---
+
+## 📝 Ejercicio práctico
+
+[📄 Resolver ejercicio de pronto pago](https://docs.google.com/document/d/1GBkA_dhZSl5S5sSYun7XIFVHoEQS2JJg/edit?usp=sharing&ouid=108779643783230531258&rtpof=true&sd=true)
+
+---
+
+## Bibliografía
+
+- Rouillón.
+- Junyent Bas.
+- Frick.
+
+---
+
+## Legislación
+
+- Ley 24.522.
+
+---
+
+## Material complementario
+
+Durante la cursada se incorporarán fallos, esquemas y ejercicios adicionales.
