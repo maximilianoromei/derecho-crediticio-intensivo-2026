@@ -1,32 +1,94 @@
 ---
-title: "Clase 3 · Presentación concursal y apertura"
-subtitle: "Derecho Crediticio, Bursátil e Insolvencia · FCE UBA"
+title: "Clase 3 — Verificación de créditos e informes del síndico"
 ---
 
-::: {.session}
-### Tema central
+# Clase 3 — Verificación de créditos e informes del síndico
 
-Requisitos de presentación. Auto de apertura. Desistimiento.
+## Objetivos de aprendizaje
+
+Al finalizar esta clase el estudiante deberá ser capaz de:
+
+- Comprender el procedimiento de verificación de créditos.
+- Diferenciar los informes individual y general del síndico.
+- Analizar los efectos de la sentencia verificatoria.
+- Comprender el régimen de los concursos con elementos extranjeros.
+- Aplicar la doctrina y la jurisprudencia relevante.
+
+::: {.callout-tip appearance="simple"}
+## 📦 Recursos de esta clase
+
+- 🎥 **3 presentaciones**
+- 📄 **2 modelos de informes del síndico**
+- ⚖️ **1 material doctrinario**
+- 📚 Bibliografía básica
 :::
 
-## Objetivos de la clase
+---
 
-- Ubicar el tema dentro de la estructura general de la materia.
-- Identificar las normas centrales aplicables.
-- Relacionar los conceptos con casos prácticos.
-- Preparar una síntesis útil para evaluación.
+# 📽 Presentaciones utilizadas en clase
 
-## Guía de lectura
+## Verificación de créditos
 
-Completar con bibliografía, artículos y fallos indicados en clase.
+🎥 [Ver presentación](https://docs.google.com/presentation/d/1VNfIlcM_56G8L14wi77perqrWMcQuy-1/edit?usp=sharing&ouid=108779643783230531258&rtpof=true&sd=true)
 
-## Material de clase
+---
 
-Aquí se incorporarán las diapositivas, esquemas, casos y recursos complementarios.
+## Informes del síndico
 
-## Preguntas orientadoras
+🎥 [Ver presentación](https://docs.google.com/presentation/d/104EHYZYrXPb_UlEtaLAsbdBJmXo5jMEV/edit?usp=sharing&ouid=108779643783230531258&rtpof=true&sd=true)
 
-1. ¿Cuál es el problema jurídico principal del tema?
-2. ¿Qué norma debe consultarse en primer lugar?
-3. ¿Qué diferencia este instituto de otros similares?
-4. ¿Cómo se aplicaría en un caso práctico?
+---
+
+## Concurso en el extranjero
+
+🎥 [Ver presentación](https://docs.google.com/presentation/d/185vd2HahYx2RxxOrmrrlvBEpmhVVrj1n/edit?usp=sharing&ouid=108779643783230531258&rtpof=true&sd=true)
+
+---
+
+# 📄 Material de consulta
+
+## Informe individual del síndico
+
+📄 [Descargar informe individual](https://drive.google.com/file/d/1cDRezp88SpLeH5xYEyiYjUxNR9kgDWEv/view?usp=sharing)
+
+---
+
+## Informe general del síndico
+
+📄 [Descargar informe general](https://drive.google.com/file/d/127BBI2GGGYSb-PBQvCrpmc3iGyhIvfGJ/view?usp=sharing)
+
+---
+
+# ⚖️ Jurisprudencia y doctrina
+
+## Plenario **Difry**
+
+Doctrina aplicable al proceso de verificación de créditos y a los efectos de la sentencia verificatoria.
+
+## Caso **Translínea**
+
+Material de lectura recomendado para comprender la evolución jurisprudencial del instituto.
+
+📚 [Descargar material doctrinario](https://drive.google.com/file/d/1qAdJwvS2BlWm6O6ffXmQNAXXLQnLUcT-/view?usp=sharing)
+
+---
+
+# 📚 Bibliografía básica
+
+- Ley 24.522.
+- Rouillón.
+- Rivera – Roitman – Vítolo.
+- Junyent Bas.
+- Frick.
+
+---
+
+# 💡 Para profundizar
+
+Durante el desarrollo de la cursada se incorporarán progresivamente:
+
+- jurisprudencia comentada;
+- casos prácticos;
+- ejercicios de aplicación;
+- modelos de escritos concursales;
+- material doctrinario complementario.
