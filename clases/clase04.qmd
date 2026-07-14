@@ -1,32 +1,99 @@
 ---
-title: "Clase 4 · Efectos de la apertura y pronto pago"
-subtitle: "Derecho Crediticio, Bursátil e Insolvencia · FCE UBA"
+title: "Clase 4"
 ---
 
-::: {.session}
-### Tema central
+# Propuesta, acuerdo preventivo y cramdown
 
-Efectos patrimoniales y procesales. Intereses. Pronto pago laboral.
+::: {.callout-tip appearance="simple"}
+## 📦 Recursos de esta clase
+
+- 🎥 **5 presentaciones**
+- 📝 **1 ejercicio práctico**
+- 📚 Bibliografía básica
 :::
 
-## Objetivos de la clase
+## Objetivos de aprendizaje
 
-- Ubicar el tema dentro de la estructura general de la materia.
-- Identificar las normas centrales aplicables.
-- Relacionar los conceptos con casos prácticos.
-- Preparar una síntesis útil para evaluación.
+Al finalizar esta clase el estudiante deberá ser capaz de:
 
-## Guía de lectura
+- Comprender el funcionamiento del período de exclusividad.
+- Analizar el contenido y las modalidades de la propuesta de acuerdo preventivo.
+- Interpretar el régimen de las mayorías concursales.
+- Comprender el procedimiento de impugnación y homologación del acuerdo.
+- Analizar el instituto del salvataje de empresas (cramdown).
+- Aplicar estos conceptos a la resolución de ejercicios prácticos.
 
-Completar con bibliografía, artículos y fallos indicados en clase.
+---
 
-## Material de clase
+# 📽 Presentaciones utilizadas en clase
 
-Aquí se incorporarán las diapositivas, esquemas, casos y recursos complementarios.
+## Títulos de crédito
 
-## Preguntas orientadoras
+🎥 [Ver presentación](https://docs.google.com/presentation/d/19KYq3-h0oVSs6icYdXHAkRRylAR5i3E_/edit?usp=sharing&ouid=108779643783230531258&rtpof=true&sd=true)
 
-1. ¿Cuál es el problema jurídico principal del tema?
-2. ¿Qué norma debe consultarse en primer lugar?
-3. ¿Qué diferencia este instituto de otros similares?
-4. ¿Cómo se aplicaría en un caso práctico?
+---
+
+## Propuesta de acuerdo y período de exclusividad
+
+🎥 [Ver presentación](https://docs.google.com/presentation/d/103H8hu1oX3Z-zdcz75_lztO9250IOtA_/edit?usp=sharing&ouid=108779643783230531258&rtpof=true&sd=true)
+
+---
+
+## Impugnación y homologación del acuerdo
+
+🎥 [Ver presentación](https://docs.google.com/presentation/d/10-bBN9yAOC7fh8DnrPXI3lxOesZo3iSg/edit?usp=sharing&ouid=108779643783230531258&rtpof=true&sd=true)
+
+---
+
+## Salvataje de empresas (Cramdown)
+
+🎥 [Ver presentación](https://docs.google.com/presentation/d/102g6IKlN0RVf0fom_FRuTmjBnkrygEm7/edit?usp=sharing&rtpof=true&sd=true)
+
+---
+
+## Agrupamiento
+
+🎥 [Ver presentación](https://docs.google.com/presentation/d/10ElEMTIOd-8wFIUA0bVTPPHI39V8PJ5n/edit?usp=sharing&ouid=108779643783230531258&rtpof=true&sd=true)
+
+---
+
+# 📄 Material de trabajo
+
+## Ejercicio práctico — Cramdown Power
+
+📝 [Descargar ejercicio](https://docs.google.com/document/d/1ysQGgaq8GO_5qZiai1t3z8pIo65vV3ozl2HIBn5zqSk/edit?usp=sharing)
+
+---
+
+# ⚖️ Jurisprudencia y doctrina
+
+Durante la clase se analizarán los principales precedentes relativos a:
+
+- homologación del acuerdo preventivo;
+- impugnación del acuerdo;
+- salvataje de empresas (cramdown);
+- interpretación de las mayorías concursales.
+
+El material doctrinario y jurisprudencial será incorporado progresivamente durante la cursada.
+
+---
+
+# 📚 Bibliografía básica
+
+- Ley 24.522.
+- Rouillón.
+- Rivera – Roitman – Vítolo.
+- Junyent Bas.
+- Frick.
+
+---
+
+# 💡 Para profundizar
+
+Durante el desarrollo de la cursada se incorporarán:
+
+- fallos comentados;
+- ejercicios adicionales;
+- material doctrinario;
+- resoluciones judiciales de interés;
+- modelos y casos prácticos.
