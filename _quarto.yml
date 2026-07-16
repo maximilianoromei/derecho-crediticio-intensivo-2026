@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
 
 website:
   title: "Derecho Crediticio, Bursátil e Insolvencia"
@@ -17,33 +17,33 @@ website:
         href: programa.qmd
       - text: "Clases"
         menu:
-          - text: "Clase 1 · Crédito, crisis y cesación de pagos"
+          - text: "Clase 1"
             href: clases/clase01.qmd
-          - text: "Clase 2 · Sujetos, competencia y concursos en el extranjero"
+          - text: "Clase 2"  
             href: clases/clase02.qmd
-          - text: "Clase 3 · Presentación concursal y apertura"
+          - text: "Clase 3" 
             href: clases/clase03.qmd
-          - text: "Clase 4 · Efectos de la apertura y pronto pago"
+          - text: "Clase 4" 
             href: clases/clase04.qmd
-          - text: "Clase 5 · Títulos valores"
+          - text: "Clase 5" 
             href: clases/clase05.qmd
-          - text: "Clase 6 · Verificación de créditos"
+          - text: "Clase 6" 
             href: clases/clase06.qmd
-          - text: "Clase 7 · Informe general y categorización"
+          - text: "Clase 7" 
             href: clases/clase07.qmd
-          - text: "Clase 8 · Quiebra"
+          - text: "Clase 8" 
             href: clases/clase08.qmd
-          - text: "Clase 9 · Recursos, conversión y efectos"
+          - text: "Clase 9" 
             href: clases/clase09.qmd
-          - text: "Clase 10 · Período de sospecha e ineficacias"
+          - text: "Clase 10" 
             href: clases/clase10.qmd
-          - text: "Clase 11 · Extensión y responsabilidad"
+          - text: "Clase 11" 
             href: clases/clase11.qmd
-          - text: "Clase 12 · Privilegios"
+          - text: "Clase 12" 
             href: clases/clase12.qmd
-          - text: "Clase 13 · Liquidación, informe final y distribución"
+          - text: "Clase 13" 
             href: clases/clase13.qmd
-          - text: "Clase 14 · Repaso integrador"
+          - text: "Clase 14" 
             href: clases/clase14.qmd
       - text: "Legislación"
         href: legislacion.qmd

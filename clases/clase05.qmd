@@ -1,32 +1,72 @@
 ---
-title: "Clase 5 · Títulos valores"
-subtitle: "Derecho Crediticio, Bursátil e Insolvencia · FCE UBA"
+title: "Clase 5 — Quiebra: sentencia, conversión, recursos y agrupamiento"
 ---
 
-::: {.session}
-### Tema central
+# Clase 5 — Quiebra: sentencia, conversión, recursos y agrupamiento
 
-Función económica. Caracteres. Cheque, pagaré y letra de cambio.
+## Objetivos de aprendizaje
+
+Al finalizar esta clase el estudiante deberá ser capaz de:
+
+- Comprender los presupuestos para el dictado de la sentencia de quiebra.
+- Analizar los efectos inmediatos de la declaración de quiebra.
+- Comprender el régimen de conversión de la quiebra en concurso preventivo.
+- Identificar los recursos procedentes contra la sentencia de quiebra.
+- Analizar el instituto del agrupamiento y su aplicación práctica.
+
+::: {.callout-tip appearance="simple"}
+## 📦 Recursos de esta clase
+
+- 🎥 **2 presentaciones**
+- ⚖️ **1 material jurisprudencial**
+- 📚 Bibliografía básica
 :::
 
-## Objetivos de la clase
+---
 
-- Ubicar el tema dentro de la estructura general de la materia.
-- Identificar las normas centrales aplicables.
-- Relacionar los conceptos con casos prácticos.
-- Preparar una síntesis útil para evaluación.
+# 📽 Presentaciones utilizadas en clase
 
-## Guía de lectura
+## Conversión de la quiebra y recursos
 
-Completar con bibliografía, artículos y fallos indicados en clase.
+🎥 [Ver presentación](https://docs.google.com/presentation/d/11DgOviQb3zcO_K-vkLy0mus--S3nmJwP/edit?usp=sharing&ouid=108779643783230531258&rtpof=true&sd=true)
 
-## Material de clase
+---
 
-Aquí se incorporarán las diapositivas, esquemas, casos y recursos complementarios.
+## Sentencia de quiebra
 
-## Preguntas orientadoras
+🎥 [Ver presentación](https://docs.google.com/presentation/d/1lRbNdmE0vvWastWlQ5Y9TR5mMiK0hPDk/edit?usp=sharing&ouid=108779643783230531258&rtpof=true&sd=true)
 
-1. ¿Cuál es el problema jurídico principal del tema?
-2. ¿Qué norma debe consultarse en primer lugar?
-3. ¿Qué diferencia este instituto de otros similares?
-4. ¿Cómo se aplicaría en un caso práctico?
+---
+
+# 📄 Material de trabajo
+
+En esta clase se trabajará principalmente con la Ley 24.522 y los esquemas desarrollados durante la exposición.
+
+---
+
+# ⚖️ Jurisprudencia y doctrina
+
+## Agrupamiento
+
+📚 [Fallos sobre agrupamiento](https://drive.google.com/file/d/144ERqmdjoYZqVmO4zUfKyzpwGk4M6h5e/view?usp=sharing)
+
+---
+
+# 📚 Bibliografía básica
+
+- Ley 24.522.
+- Rouillón.
+- Rivera – Roitman – Vítolo.
+- Junyent Bas.
+- Frick.
+
+---
+
+# 💡 Para profundizar
+
+Durante el desarrollo de la cursada se incorporarán progresivamente:
+
+- jurisprudencia comentada sobre quiebra;
+- ejercicios prácticos;
+- resoluciones judiciales de interés;
+- material doctrinario complementario.
