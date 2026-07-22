@@ -1,32 +1,76 @@
 ---
-title: "Clase 7 · Informe general y categorización"
-subtitle: "Derecho Crediticio, Bursátil e Insolvencia · FCE UBA"
+title: "Clase 7 — Efectos de la quiebra e ineficacia concursal"
 ---
 
-::: {.session}
-### Tema central
+# Clase 7 — Efectos de la quiebra e ineficacia concursal
 
-Informe general. Agrupamiento de acreedores. Propuestas. Mayorías.
+## Objetivos de aprendizaje
+
+Al finalizar esta clase el estudiante deberá ser capaz de:
+
+- Comprender el alcance del desapoderamiento.
+- Analizar el régimen del período de sospecha y las ineficacias concursales.
+- Comprender la extensión de la quiebra.
+- Analizar la responsabilidad de administradores y terceros.
+- Diferenciar las acciones previstas por la Ley de Concursos y Quiebras.
+
+::: {.callout-tip appearance="simple"}
+## 📦 Recursos de esta clase
+
+- 🎥 **3 presentaciones**
+- 📊 **1 cuadro comparativo**
+- ⚖️ **1 fallo**
+- 📚 Bibliografía básica
 :::
 
-## Objetivos de la clase
+---
 
-- Ubicar el tema dentro de la estructura general de la materia.
-- Identificar las normas centrales aplicables.
-- Relacionar los conceptos con casos prácticos.
-- Preparar una síntesis útil para evaluación.
+# 📽 Presentaciones utilizadas en clase
 
-## Guía de lectura
+## Desapoderamiento
 
-Completar con bibliografía, artículos y fallos indicados en clase.
+🎥 [Ver presentación](https://docs.google.com/presentation/d/1nSkZoq8h4hBhuHRjZjQczTihgpQ-znG3/edit?usp=sharing&ouid=108779643783230531258&rtpof=true&sd=true)
 
-## Material de clase
+---
 
-Aquí se incorporarán las diapositivas, esquemas, casos y recursos complementarios.
+## Cesación de pagos · Ineficacias · Período de sospecha
 
-## Preguntas orientadoras
+🎥 [Ver presentación](https://docs.google.com/presentation/d/1nSkZoq8h4hBhuHRjZjQczTihgpQ-znG3/edit?usp=sharing&ouid=108779643783230531258&rtpof=true&sd=true)
 
-1. ¿Cuál es el problema jurídico principal del tema?
-2. ¿Qué norma debe consultarse en primer lugar?
-3. ¿Qué diferencia este instituto de otros similares?
-4. ¿Cómo se aplicaría en un caso práctico?
+---
+
+## Extensión de quiebra · Responsabilidad de administradores y terceros
+
+🎥 [Ver presentación](https://docs.google.com/presentation/d/1huXmwTRh7WvUaRL5r6vYgqEqT5HKlBOf/edit?usp=sharing&ouid=108779643783230531258&rtpof=true&sd=true)
+
+---
+
+# 📄 Material de trabajo
+
+## Cuadro comparativo de acciones
+
+📊 [Abrir cuadro comparativo](https://docs.google.com/spreadsheets/d/1pzaYgwEApvZp38BnINZf9105pMTaoFD-/edit?usp=sharing&ouid=108779643783230531258&rtpof=true&sd=true)
+
+---
+
+# ⚖️ Jurisprudencia y doctrina
+
+## Bonmetique
+
+📚 [Descargar fallo](https://drive.google.com/file/d/1lshWNNym0IDNJNUodiY3aQt3JcIn2cgG/view?usp=sharing)
+
+---
+
+# 📚 Bibliografía básica
+
+- Ley 24.522.
+- Rouillón.
+- Rivera – Roitman – Vítolo.
+- Junyent Bas.
+- Frick.
+
+---
+
+# 💡 Para profundizar
+
+Durante la cursada se incorporarán nuevos fallos, ejercicios y material doctrinario relacionado con los efectos de la quiebra y las acciones concursales.
