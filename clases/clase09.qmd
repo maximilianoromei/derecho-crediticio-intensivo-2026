@@ -1,32 +1,60 @@
 ---
-title: "Clase 9 · Quiebra, conversión y recursos"
-subtitle: "Derecho Crediticio, Bursátil e Insolvencia · FCE UBA"
+title: "Clase 9"
 ---
 
-::: {.session}
-### Tema central
+# Privilegios y distribución
 
-Quiebra directa e indirecta. Sentencia. Conversión. Recursos. Efectos.
+## Objetivos de aprendizaje
+
+Al finalizar esta clase el estudiante deberá ser capaz de:
+
+- Identificar el régimen de privilegios de la Ley 24.522.
+- Comprender el orden de prelación de los créditos.
+- Aplicar las reglas de distribución mediante ejercicios prácticos.
+- Resolver casos vinculados con la graduación y el pago de los acreedores.
+
+::: {.callout-tip appearance="simple"}
+## 📦 Recursos de esta clase
+
+- 🎥 **1 presentación**
+- 📝 **2 ejercicios**
+- 📚 Bibliografía básica
 :::
 
-## Objetivos de la clase
+---
 
-- Ubicar el tema dentro de la estructura general de la materia.
-- Identificar las normas centrales aplicables.
-- Relacionar los conceptos con casos prácticos.
-- Preparar una síntesis útil para evaluación.
+# 📽 Presentaciones utilizadas en clase
 
-## Guía de lectura
+## Privilegios
 
-Completar con bibliografía, artículos y fallos indicados en clase.
+🎥 [Ver presentación](https://docs.google.com/presentation/d/1XOWsF_ibHCVJnYqkmxNUluId-LT2erX6/edit?usp=sharing&ouid=108779643783230531258&rtpof=true&sd=true)
 
-## Material de clase
+---
 
-Aquí se incorporarán las diapositivas, esquemas, casos y recursos complementarios.
+# 📄 Material de trabajo
 
-## Preguntas orientadoras
+## Ejercicio de distribución
 
-1. ¿Cuál es el problema jurídico principal del tema?
-2. ¿Qué norma debe consultarse en primer lugar?
-3. ¿Qué diferencia este instituto de otros similares?
-4. ¿Cómo se aplicaría en un caso práctico?
+📝 [Abrir documento](https://docs.google.com/document/d/1SKY_EFupFfmCQw66xyAzqkN-ANwnNs1dL7yA4sJ9wiE/edit?usp=sharing)
+
+---
+
+## Ejercicios adicionales
+
+📝 [Abrir documento](https://docs.google.com/document/d/1FgOKYZQtXI81ZpWf_oeTzvIm_48b1H01/edit?usp=sharing&ouid=108779643783230531258&rtpof=true&sd=true)
+
+---
+
+# 📚 Bibliografía básica
+
+- Ley 24.522.
+- Rouillón.
+- Rivera – Roitman – Vítolo.
+- Junyent Bas.
+- Frick.
+
+---
+
+# 💡 Para profundizar
+
+Se incorporarán nuevos ejercicios y fallos sobre privilegios, graduación y distribución del producido de la liquidación.

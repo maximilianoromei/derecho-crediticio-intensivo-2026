@@ -1,32 +1,63 @@
 ---
-title: "Clase 8 · Concurso por agrupamiento, APE y quiebra"
-subtitle: "Derecho Crediticio, Bursátil e Insolvencia · FCE UBA"
+title: "Clase 8"
 ---
 
-::: {.session}
-### Tema central
+# Efectos de la quiebra y continuación de la empresa
 
-Concurso en caso de agrupamiento. Acuerdo preventivo extrajudicial. Introducción a la quiebra.
+## Objetivos de aprendizaje
+
+Al finalizar esta clase el estudiante deberá ser capaz de:
+
+- Analizar los principales efectos jurídicos de la sentencia de quiebra.
+- Comprender el régimen de continuación de la explotación.
+- Analizar los efectos de la quiebra sobre los contratos de trabajo.
+- Relacionar estos institutos con la protección del crédito y la conservación de la empresa.
+
+::: {.callout-tip appearance="simple"}
+## 📦 Recursos de esta clase
+
+- 🎥 **3 presentaciones**
+- 📚 Bibliografía básica
 :::
 
-## Objetivos de la clase
+---
 
-- Ubicar el tema dentro de la estructura general de la materia.
-- Identificar las normas centrales aplicables.
-- Relacionar los conceptos con casos prácticos.
-- Preparar una síntesis útil para evaluación.
+# 📽 Presentaciones utilizadas en clase
 
-## Guía de lectura
+## Continuación de la empresa
 
-Completar con bibliografía, artículos y fallos indicados en clase.
+🎥 [Ver presentación](https://docs.google.com/presentation/d/16PRNtYIUnFGGl0DdV7scGqrY7B1uhsgI/edit?usp=sharing&ouid=108779643783230531258&rtpof=true&sd=true)
 
-## Material de clase
+---
 
-Aquí se incorporarán las diapositivas, esquemas, casos y recursos complementarios.
+## Efectos de la quiebra
 
-## Preguntas orientadoras
+🎥 [Ver presentación](https://docs.google.com/presentation/d/1zW0TmMWAly58w64ex8F2-p8BkEhrT_dG/edit?usp=sharing&ouid=108779643783230531258&rtpof=true&sd=true)
 
-1. ¿Cuál es el problema jurídico principal del tema?
-2. ¿Qué norma debe consultarse en primer lugar?
-3. ¿Qué diferencia este instituto de otros similares?
-4. ¿Cómo se aplicaría en un caso práctico?
+---
+
+## Efectos de la quiebra sobre el contrato de trabajo
+
+🎥 [Ver presentación](https://docs.google.com/presentation/d/10rLESPTKHLDVURaWd4ZFrxWIkF9xtl2h/edit?usp=sharing&ouid=108779643783230531258&rtpof=true&sd=true)
+
+---
+
+# 📄 Material de trabajo
+
+Durante la clase se trabajará con la Ley 24.522, casos prácticos y esquemas desarrollados durante la exposición.
+
+---
+
+# 📚 Bibliografía básica
+
+- Ley 24.522.
+- Rouillón.
+- Rivera – Roitman – Vítolo.
+- Junyent Bas.
+- Frick.
+
+---
+
+# 💡 Para profundizar
+
+Durante la cursada se incorporarán ejercicios y jurisprudencia sobre continuidad de la explotación y efectos de la quiebra.
