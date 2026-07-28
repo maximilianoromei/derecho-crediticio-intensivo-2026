@@ -1,8 +1,8 @@
 ---
-title: "Clase 10"
+title: "Clase 10 — Liquidación y conclusión de la quiebra"
 ---
 
-# Liquidación y conclusión de la quiebra
+# Clase 10 — Liquidación y conclusión de la quiebra
 
 ## Objetivos de aprendizaje
 
@@ -18,7 +18,8 @@ Al finalizar esta clase el estudiante deberá ser capaz de:
 ## 📦 Recursos de esta clase
 
 - 🎥 **4 presentaciones**
-- 📝 **1 ejercicio de repaso**
+- 📝 **1 ejercicio integrador**
+- ⚖️ **4 fallos**
 - 📚 Bibliografía básica
 :::
 
@@ -58,6 +59,32 @@ Al finalizar esta clase el estudiante deberá ser capaz de:
 
 ---
 
+# ⚖️ Jurisprudencia y doctrina
+
+## Acevedo
+
+📚 [Ver fallo](https://drive.google.com/file/d/1_dxDGs2X53nZkLjNVfGk-jd9Hspx--UF/view?usp=sharing)
+
+---
+
+## Clínica Marini
+
+📚 [Ver fallo](https://drive.google.com/file/d/1XzG4_8cCEUEaTU0ADx8TriqzRcA85dCM/view?usp=sharing)
+
+---
+
+## Pinturas y Revestimientos
+
+📚 [Ver fallo](https://drive.google.com/file/d/1wT0VPkqoM1Q43ivy8ibJFvNF0WOWBRtR/view?usp=sharing)
+
+---
+
+## Institutos Médicos Antártida
+
+📚 [Ver fallo](https://drive.google.com/file/d/1x6SMGX-CGhtkVB82ruGP-UfnbDHW2I2Q/view?usp=sharing)
+
+---
+
 # 📚 Bibliografía básica
 
 - Ley 24.522.
@@ -70,4 +97,4 @@ Al finalizar esta clase el estudiante deberá ser capaz de:
 
 # 💡 Para profundizar
 
-Como cierre de la materia se incorporarán ejercicios integradores que permitan recorrer todas las etapas del concurso preventivo y de la quiebra, vinculando los distintos institutos estudiados durante la cursada.
+Como cierre de la materia se incorporarán ejercicios integradores y jurisprudencia seleccionada que permitan recorrer todas las etapas del concurso preventivo y de la quiebra, integrando los distintos institutos estudiados durante la cursada y facilitando el repaso para la evaluación final.
