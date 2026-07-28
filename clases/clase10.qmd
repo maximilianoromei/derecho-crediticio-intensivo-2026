@@ -1,32 +1,73 @@
 ---
-title: "Clase 10 · Período de sospecha e ineficacias"
-subtitle: "Derecho Crediticio, Bursátil e Insolvencia · FCE UBA"
+title: "Clase 10"
 ---
 
-::: {.session}
-### Tema central
+# Liquidación y conclusión de la quiebra
 
-Desapoderamiento. Período de sospecha. Ineficacias. Revocatoria civil.
+## Objetivos de aprendizaje
+
+Al finalizar esta clase el estudiante deberá ser capaz de:
+
+- Comprender el procedimiento de liquidación de los bienes.
+- Analizar la elaboración del informe final y la distribución del producido.
+- Identificar las distintas formas de clausura del procedimiento falencial.
+- Comprender las distintas formas de conclusión de la quiebra.
+- Aplicar estos conceptos mediante un ejercicio integrador.
+
+::: {.callout-tip appearance="simple"}
+## 📦 Recursos de esta clase
+
+- 🎥 **4 presentaciones**
+- 📝 **1 ejercicio de repaso**
+- 📚 Bibliografía básica
 :::
 
-## Objetivos de la clase
+---
 
-- Ubicar el tema dentro de la estructura general de la materia.
-- Identificar las normas centrales aplicables.
-- Relacionar los conceptos con casos prácticos.
-- Preparar una síntesis útil para evaluación.
+# 📽 Presentaciones utilizadas en clase
 
-## Guía de lectura
+## Informe final y distribución
 
-Completar con bibliografía, artículos y fallos indicados en clase.
+🎥 [Ver presentación](https://docs.google.com/presentation/d/110YtfNv_Tj6dq79cySciXh73nsOoFT-C/edit?usp=sharing&ouid=108779643783230531258&rtpof=true&sd=true)
 
-## Material de clase
+---
 
-Aquí se incorporarán las diapositivas, esquemas, casos y recursos complementarios.
+## Liquidación
 
-## Preguntas orientadoras
+🎥 [Ver presentación](https://docs.google.com/presentation/d/11-nebJLrZ2RzcicUVhr7W8syA_zA_OCb/edit?usp=sharing&ouid=108779643783230531258&rtpof=true&sd=true)
 
-1. ¿Cuál es el problema jurídico principal del tema?
-2. ¿Qué norma debe consultarse en primer lugar?
-3. ¿Qué diferencia este instituto de otros similares?
-4. ¿Cómo se aplicaría en un caso práctico?
+---
+
+## Clausura del procedimiento
+
+🎥 [Ver presentación](https://docs.google.com/presentation/d/1BwhRtMVN8j5ZavLxq_LGvbkMKLsD6pqT/edit?usp=sharing&ouid=108779643783230531258&rtpof=true&sd=true)
+
+---
+
+## Conclusión de la quiebra
+
+🎥 [Ver presentación](https://docs.google.com/presentation/d/1JZjmZeqfjhh3iuvINDWqSntf2tBWzG-H/edit?usp=sharing&ouid=108779643783230531258&rtpof=true&sd=true)
+
+---
+
+# 📄 Material de trabajo
+
+## Ejercicio integrador de repaso
+
+📝 [Abrir documento](https://docs.google.com/document/d/1J6LryY45J2_2Gp-BGfha2RPGjrJGZnUQ9kWmgolJJj0/edit?usp=sharing)
+
+---
+
+# 📚 Bibliografía básica
+
+- Ley 24.522.
+- Rouillón.
+- Rivera – Roitman – Vítolo.
+- Junyent Bas.
+- Frick.
+
+---
+
+# 💡 Para profundizar
+
+Como cierre de la materia se incorporarán ejercicios integradores que permitan recorrer todas las etapas del concurso preventivo y de la quiebra, vinculando los distintos institutos estudiados durante la cursada.
