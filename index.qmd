@@ -85,6 +85,11 @@ Este sitio reúne el material utilizado durante el curso: cronograma, presentaci
 <p class="card-text">Parcialitos, parciales, TP y criterios de aprobación.</p>
 </a>
 
+<a class="card-link" href="clases/simulacro_concursos_y_quiebras.html">
+<div class="card-title">📝 Simulacro de Concursos y Quiebras</div>
+<p class="card-text">Cinco casos prácticos y cincuenta preguntas con sus respuestas.</p>
+</a>
+
 <a class="card-link" href="clases/clase01.html">
 <div class="card-title">🎓 Primera clase</div>
 <p class="card-text">Crédito, crisis, ejecución individual y ejecución colectiva.</p>
