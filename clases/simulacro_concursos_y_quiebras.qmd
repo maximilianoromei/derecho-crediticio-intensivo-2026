@@ -1,0 +1,546 @@
+---
+title: "Simulacro de Concursos y Quiebras"
+subtitle: "Cinco casos y cincuenta preguntas resueltas"
+lang: es
+format:
+  revealjs:
+    theme: default
+    css: estilos_concursal.css
+    slide-level: 2
+    slide-number: true
+    center: false
+    scrollable: true
+    width: 1280
+    height: 720
+    margin: 0.07
+---
+
+## Cómo trabajar los casos
+
+Leé el caso completo. Respondé cada pregunta antes de avanzar a la solución.
+
+Los supuestos son ficticios y se resuelven con la Ley 24.522. Las variantes de cada caso se analizan por separado.
+
+## Caso 1 · La presentación y la verificación en Talleres del Sur SA
+
+El presidente de Talleres del Sur SA presenta el concurso preventivo después de que el directorio resuelve hacerlo. La asamblea se reúne veinte días después y la sociedad acompaña el acta que aprueba continuar el trámite. Todavía no existe sentencia de quiebra, aunque un proveedor ya la pidió. Abierto el concurso, un banco reclama capital e intereses de un préstamo quirografario anterior. Otro banco tiene hipoteca sobre un inmueble de la sociedad. Una trabajadora reclama salarios anteriores. Un proveedor presenta facturas, remitos y un pedido de privilegio sin indicar su fundamento. Otro acreedor observa su pedido y un tercero, que no se presentó a tiempo, intenta incorporarse después de homologado el acuerdo. Como variante, se supone que la sociedad desiste cuando ya empezó la publicación de edictos, pero todavía no venció el plazo para verificar.
+
+## Caso 1 · Pregunta 1
+
+¿Quién presenta el concurso de la sociedad y qué debe decidir la asamblea?
+
+## Caso 1 · Respuesta 1
+
+**¿Quién presenta el concurso de la sociedad y qué debe decidir la asamblea?**
+
+Lo presenta su representante legal, previa resolución del órgano de administración. Dentro de los 30 días de la presentación debe acompañarse la decisión del órgano de gobierno de continuar el trámite. El acta presentada el día 20 cumple ese recaudo. Sin esa constancia se produce de pleno derecho la cesación del procedimiento con efectos de desistimiento (art. 6).
+
+## Caso 1 · Pregunta 2
+
+¿El pedido de quiebra del proveedor impide que la sociedad solicite su concurso?
+
+## Caso 1 · Respuesta 2
+
+**¿El pedido de quiebra del proveedor impide que la sociedad solicite su concurso?**
+
+No. Puede solicitarlo mientras la quiebra no haya sido declarada. El pedido pendiente del proveedor y la sentencia de quiebra son actos distintos (art. 10).
+
+## Caso 1 · Pregunta 3
+
+¿Puede desistir libremente después de iniciada la publicación de edictos?
+
+## Caso 1 · Respuesta 3
+
+**¿Puede desistir libremente después de iniciada la publicación de edictos?**
+
+No. Desde entonces y hasta el inicio del período de exclusividad necesita la conformidad de la mayoría de los acreedores quirografarios que representen el 75 % del capital quirografario. Antes del informe individual, el cómputo se hace con los denunciados y los que se presentaron a verificar. Si queda un pedido de quiebra pendiente, una nueva presentación dentro del año no se admite en los supuestos del art. 31.
+
+## Caso 1 · Pregunta 4
+
+¿Qué intereses se suspenden y desde cuándo?
+
+## Caso 1 · Respuesta 4
+
+**¿Qué intereses se suspenden y desde cuándo?**
+
+Desde la presentación se suspenden los intereses del préstamo quirografario anterior. Los intereses posteriores del crédito hipotecario solo pueden cobrarse sobre el producido del bien gravado. La suspensión del art. 19 no alcanza a los créditos laborales por salarios impagos e indemnizaciones derivadas de la relación laboral.
+
+## Caso 1 · Pregunta 5
+
+¿Qué debe indicar y acompañar el proveedor al pedir la verificación?
+
+## Caso 1 · Respuesta 5
+
+**¿Qué debe indicar y acompañar el proveedor al pedir la verificación?**
+
+Debe indicar monto, causa y privilegio, acompañar los títulos justificativos y constituir domicilio. Facturas y remitos permiten examinar la operación. El privilegio requiere un fundamento legal. El pedido tiene efectos de demanda, interrumpe la prescripción e impide la caducidad del derecho y de la instancia (art. 32).
+
+## Caso 1 · Pregunta 6
+
+¿Cuándo se puede observar el pedido y quién está habilitado?
+
+## Caso 1 · Respuesta 6
+
+**¿Cuándo se puede observar el pedido y quién está habilitado?**
+
+Durante los 10 días siguientes al vencimiento del plazo para verificar, el deudor y los acreedores que solicitaron verificación pueden revisar los legajos y formular observaciones escritas ante la sindicatura (art. 34).
+
+## Caso 1 · Pregunta 7
+
+¿Qué debe hacer el síndico con el crédito observado?
+
+## Caso 1 · Respuesta 7
+
+**¿Qué debe hacer el síndico con el crédito observado?**
+
+Dentro de los 20 días siguientes al cierre del período de observaciones presenta su informe individual. Debe examinar documentación y observaciones y dar una opinión fundada sobre monto, causa y privilegio. La decisión corresponde al juez (art. 35).
+
+## Caso 1 · Pregunta 8
+
+¿Cómo decide el juez si el crédito no fue observado o si hubo oposición?
+
+## Caso 1 · Respuesta 8
+
+**¿Cómo decide el juez si el crédito no fue observado o si hubo oposición?**
+
+Dentro de los 10 días de presentado el informe, declara verificado el crédito no observado si lo considera procedente. Si hubo observaciones, lo declara admisible o inadmisible según corresponda. Estas decisiones sirven para el cómputo de mayorías y la base del acuerdo (art. 36).
+
+## Caso 1 · Pregunta 9
+
+¿Puede incorporarse el acreedor que llegó después de la homologación?
+
+## Caso 1 · Respuesta 9
+
+**¿Puede incorporarse el acreedor que llegó después de la homologación?**
+
+Si el concurso sigue abierto, promueve incidente de verificación tardía. Si concluyó, ejerce la acción individual correspondiente. Rige, en principio, el plazo de dos años desde la presentación, salvo prescripción menor. Si el título es una sentencia de un juicio exceptuado por el art. 21, debe considerar la regla especial de los seis meses desde su firmeza (art. 56).
+
+## Caso 1 · Pregunta 10
+
+¿El acreedor tardío verificado puede exigir el crédito original o recuperar las cuotas ya repartidas?
+
+## Caso 1 · Respuesta 10
+
+**¿El acreedor tardío verificado puede exigir el crédito original o recuperar las cuotas ya repartidas?**
+
+Le alcanza el acuerdo homologado. No puede reclamar a los demás acreedores lo que ya cobraron. El juez determina cómo se aplican los efectos ya producidos a su crédito, considerando la naturaleza de las prestaciones (art. 56).
+
+## Caso 2 · El acuerdo de Metalúrgica Central SA
+
+Metalúrgica Central SA tiene una sola categoría quirografaria computable de diez acreedores y $90 millones de capital. Presenta en término una propuesta de pagar el 60 % en cuotas y reúne las conformidades válidas de seis acreedores por $62 millones. También propone refinanciar dos créditos con privilegio especial, pero solo uno de sus titulares presta conformidad. La propuesta quirografaria no quedó condicionada a la aprobación de la privilegiada. Notificada ministerio de la ley la resolución que informa la existencia del acuerdo, un acreedor disidente denuncia que se exageró fraudulentamente el pasivo. En dos variantes independientes, el engaño se descubre recién después de homologar y otro acreedor deja de recibir las cuotas pactadas.
+
+## Caso 2 · Pregunta 1
+
+¿Qué debe hacer la concursada durante el período de exclusividad?
+
+## Caso 2 · Respuesta 1
+
+**¿Qué debe hacer la concursada durante el período de exclusividad?**
+
+Debe formular propuestas y reunir conformidades. El plazo es de 90 días desde la notificación ministerio de la resolución de categorización, ampliable por el juez hasta 30 días más. Debe hacer pública la propuesta al menos 20 días antes del vencimiento. Puede ofrecer quita, espera o ambas, como en el caso (art. 43).
+
+## Caso 2 · Pregunta 2
+
+¿Alcanza la doble mayoría quirografaria?
+
+## Caso 2 · Respuesta 2
+
+**¿Alcanza la doble mayoría quirografaria?**
+
+Sí. Seis de diez superan la mitad de las personas y $62 millones superan los $60 millones que representan dos tercios del capital computable. Las dos mayorías se exigen en cada categoría. Se aplican las exclusiones legales y las conformidades deben corresponder a la última propuesta (art. 45).
+
+## Caso 2 · Pregunta 3
+
+¿Quedan incluidos los dos acreedores con privilegio especial?
+
+## Caso 2 · Respuesta 3
+
+**¿Quedan incluidos los dos acreedores con privilegio especial?**
+
+No. La propuesta privilegiada es facultativa y puede dirigirse a todos los privilegiados o a categorías. Si comprende créditos con privilegio especial, requiere la conformidad de todos los titulares alcanzados por ella. La falta de aprobación no arrastra al acuerdo quirografario porque la deudora no lo condicionó. El privilegiado no comprendido conserva las vías del art. 57, incluida la ejecución de su sentencia de verificación y, si procede, el pedido de quiebra (arts. 44, 47 y 57).
+
+## Caso 2 · Pregunta 4
+
+¿Qué significa que el juez declare la existencia del acuerdo?
+
+## Caso 2 · Respuesta 4
+
+**¿Qué significa que el juez declare la existencia del acuerdo?**
+
+El juez informa que se presentaron las conformidades dentro de los tres días de su presentación. Esa resolución abre la etapa de impugnación. La homologación se decide después (art. 49).
+
+## Caso 2 · Pregunta 5
+
+¿Puede impugnar el disidente por exageración fraudulenta del pasivo?
+
+## Caso 2 · Respuesta 5
+
+**¿Puede impugnar el disidente por exageración fraudulenta del pasivo?**
+
+Sí. El acreedor con derecho a voto puede impugnar dentro de los cinco días siguientes a la notificación ministerio de la resolución del art. 49. La exageración fraudulenta del pasivo es una causal legal. Debe identificar el fraude y demostrarlo (art. 50).
+
+## Caso 2 · Pregunta 6
+
+¿Qué resuelve el juez si la impugnación prospera?
+
+## Caso 2 · Respuesta 6
+
+**¿Qué resuelve el juez si la impugnación prospera?**
+
+Como regla declara la quiebra. Si la sociedad está comprendida en el art. 48, corresponde aplicar el salvataje en los términos del art. 51, salvo que la impugnación recaiga sobre una propuesta de ese mismo procedimiento. Si rechaza la impugnación, pasa al examen de homologación (art. 51).
+
+## Caso 2 · Pregunta 7
+
+¿Alcanzan las mayorías para homologar cualquier propuesta?
+
+## Caso 2 · Respuesta 7
+
+**¿Alcanzan las mayorías para homologar cualquier propuesta?**
+
+No. El juez controla la legalidad y debe rechazar una propuesta abusiva o en fraude a la ley. En este caso hay una sola categoría quirografaria, por lo que no hay una categoría disidente a la cual imponer el acuerdo por la vía excepcional del art. 52.
+
+## Caso 2 · Pregunta 8
+
+¿Qué pasa con la deuda original y con los garantes al homologarse?
+
+## Caso 2 · Respuesta 8
+
+**¿Qué pasa con la deuda original y con los garantes al homologarse?**
+
+El acuerdo homologado nova las obligaciones anteriores comprendidas. Se reemplazan por las obligaciones del acuerdo. La novación no extingue las obligaciones de los fiadores ni de los codeudores solidarios (art. 55).
+
+## Caso 2 · Pregunta 9
+
+¿Qué puede pedir el acreedor si el fraude se descubre recién después de homologar?
+
+## Caso 2 · Respuesta 9
+
+**¿Qué puede pedir el acreedor si el fraude se descubre recién después de homologar?**
+
+Un acreedor comprendido puede pedir la nulidad dentro de los seis meses desde el auto homologatorio. Debe tratarse del dolo previsto por la ley, como exagerar el pasivo, descubierto después de vencido el plazo de impugnación. La sentencia que anula el acuerdo declara la quiebra (arts. 60 y 61).
+
+## Caso 2 · Pregunta 10
+
+¿Qué puede hacer el acreedor si el acuerdo fue válido pero dejaron de pagarle?
+
+## Caso 2 · Respuesta 10
+
+**¿Qué puede hacer el acreedor si el acuerdo fue válido pero dejaron de pagarle?**
+
+Puede pedir la quiebra por incumplimiento total o parcial, incluidas las garantías. También puede pedirla el comité de control. Se da vista al deudor y al comité. La nulidad apunta al fraude en el acuerdo. El incumplimiento se refiere a una obligación del acuerdo que quedó sin ejecutar (art. 63).
+
+## Caso 3 · La quiebra directa de Logística del Plata SRL
+
+Un proveedor impago pide la quiebra de Logística del Plata SRL. Acompaña un reconocimiento de deuda vencida, informes de ejecuciones infructuosas y constancias de cierre del depósito. También solicita inhibición de bienes. La sociedad es citada y se declara su quiebra. Tras el último edicto, estudia pedir la conversión. Como variante independiente, un socio ilimitadamente responsable de otra sociedad quiere saber si puede recurrir su propia quiebra por extensión. En el depósito de Logística hay bienes propios. Un banco tiene prenda. Un proveedor debe dinero a la fallida y a la vez invoca un crédito que recién se volvió exigible después de la sentencia.
+
+## Caso 3 · Pregunta 1
+
+¿Quién puede pedir la quiebra y qué acreedores están excluidos?
+
+## Caso 3 · Respuesta 1
+
+**¿Quién puede pedir la quiebra y qué acreedores están excluidos?**
+
+Puede pedirla el acreedor con crédito exigible, cualquiera sea su naturaleza o privilegio, y también el propio deudor. El acreedor con privilegio especial debe probar sumariamente la insuficiencia del bien gravado, salvo crédito laboral. Están excluidos el cónyuge, ascendientes, descendientes y cesionarios de sus créditos (arts. 80 a 82).
+
+## Caso 3 · Pregunta 2
+
+¿Qué debe acreditar el proveedor y cómo se sustancia el pedido?
+
+## Caso 3 · Respuesta 2
+
+**¿Qué debe acreditar el proveedor y cómo se sustancia el pedido?**
+
+Debe acreditar sumariamente su crédito, hechos reveladores de cesación de pagos y que la sociedad es un sujeto concursable. El juez cita al deudor para que se defienda dentro del quinto día. No hay un juicio de antequiebra. Si hay elementos suficientes, puede disponer medidas precautorias para proteger el patrimonio (arts. 83 a 85).
+
+## Caso 3 · Pregunta 3
+
+¿Qué debe presentar el deudor si solicita su propia quiebra y cuándo cabe desistir?
+
+## Caso 3 · Respuesta 3
+
+**¿Qué debe presentar el deudor si solicita su propia quiebra y cuándo cabe desistir?**
+
+Debe acompañar los recaudos exigidos por el art. 86 y poner sus bienes a disposición. La falta de esos recaudos no impide la declaración. El acreedor solo puede desistir antes de la citación del deudor. El propio deudor solo puede desistir antes del primer edicto si demuestra que desapareció la cesación de pagos (arts. 86 y 87).
+
+## Caso 3 · Pregunta 4
+
+¿Puede Logística pedir la conversión y en qué plazo?
+
+## Caso 3 · Respuesta 4
+
+**¿Puede Logística pedir la conversión y en qué plazo?**
+
+Sí, si reúne los requisitos para concursarse y no cae en una exclusión legal. Tiene diez días desde la última publicación de edictos. No se admite cuando la quiebra se decretó por incumplimiento del acuerdo preventivo, cuando tramita un concurso preventivo o cuando rige la inhibición del art. 59. El socio quebrado por extensión del art. 160 también puede pedir conversión (art. 90).
+
+## Caso 3 · Pregunta 5
+
+¿Quién puede pedir reposición y qué ocurre si se deposita lo necesario?
+
+## Caso 3 · Respuesta 5
+
+**¿Quién puede pedir reposición y qué ocurre si se deposita lo necesario?**
+
+El fallido puede recurrir la quiebra pedida por acreedor. El socio ilimitadamente responsable puede recurrir la propia quiebra por extensión en el supuesto del art. 94. El plazo es de cinco días desde el conocimiento de la sentencia o, si no lo hubo, desde el último edicto. El art. 96 permite levantar la quiebra sin sustanciar el recurso si se depositan los créditos y accesorios cuyo incumplimiento acreditó la cesación de pagos. También deben cubrirse los demás pedidos de quiebra pendientes a la fecha de la sentencia, salvo que se demuestre su ilegitimidad, y los gastos que fije el juez.
+
+## Caso 3 · Pregunta 6
+
+¿Qué bienes alcanza el desapoderamiento y quién administra?
+
+## Caso 3 · Respuesta 6
+
+**¿Qué bienes alcanza el desapoderamiento y quién administra?**
+
+Abarca los bienes existentes al declararse la quiebra y los adquiridos hasta la rehabilitación, con las exclusiones legales. La fallida pierde la administración y disposición. El síndico administra y participa en la disposición conforme al proceso. Los actos y pagos de la fallida sobre bienes desapoderados son ineficaces (arts. 107 a 109).
+
+## Caso 3 · Pregunta 7
+
+¿El banco prendario debe verificar? ¿Puede pedir una venta separada?
+
+## Caso 3 · Respuesta 7
+
+**¿El banco prendario debe verificar? ¿Puede pedir una venta separada?**
+
+Debe solicitar la verificación de su crédito y privilegio. Puede pedir la realización del bien en concurso especial, previa comprobación del título y con la reserva que corresponda. Su garantía no lo exime de concurrir a verificar (art. 126).
+
+## Caso 3 · Pregunta 8
+
+¿Cómo se incorporan una deuda en moneda extranjera y una deuda con plazo pendiente?
+
+## Caso 3 · Respuesta 8
+
+**¿Cómo se incorporan una deuda en moneda extranjera y una deuda con plazo pendiente?**
+
+La obligación en moneda extranjera concurre por su valor en moneda argentina a la fecha de la quiebra o, a opción del acreedor, al vencimiento si fue anterior. La obligación a plazo se considera vencida al declararse la quiebra. Si se paga antes del vencimiento original y no tiene intereses, se aplica el descuento legal (arts. 127 y 128).
+
+## Caso 3 · Pregunta 9
+
+¿Qué pasa con los intereses y con los deudores solidarios?
+
+## Caso 3 · Respuesta 9
+
+**¿Qué pasa con los intereses y con los deudores solidarios?**
+
+La quiebra suspende los intereses. Los compensatorios posteriores de créditos con garantía real pueden cobrarse dentro del límite y orden del producido del bien. La ley exceptúa los compensatorios posteriores de créditos laborales. El acreedor de varios obligados solidarios puede concurrir en la quiebra de cada uno por el valor nominal, sin superar el cobro total (arts. 129 y 130).
+
+## Caso 3 · Pregunta 10
+
+¿Puede el proveedor compensar su deuda con el crédito que se volvió exigible después de la sentencia?
+
+## Caso 3 · Respuesta 10
+
+**¿Puede el proveedor compensar su deuda con el crédito que se volvió exigible después de la sentencia?**
+
+No. La compensación solo procede si ya se había operado antes de la declaración de quiebra. Aquí faltaba la exigibilidad de uno de los créditos antes de la sentencia (art. 131).
+
+## Caso 4 · Las transferencias de Frigorífico Pampeano SA
+
+Frigorífico Pampeano SA quiebra el 1 de octubre. El síndico propone como fecha inicial de cesación de pagos el 1 de marzo del mismo año. En abril, la sociedad donó un vehículo a un tercero. En mayo pagó una deuda que vencía en diciembre y en junio constituyó hipoteca para garantizar una deuda anterior que originalmente era quirografaria y todavía no vencía. En julio vendió una máquina a precio muy inferior al de mercado a un comprador que conocía la cesación de pagos. La controlante había usado su voto para hacer que el frigorífico transfiriera sistemáticamente sus mejores activos a otra sociedad del grupo en beneficio propio. Un director autorizó dolosamente los desvíos y un tercero colaboró con conocimiento y voluntad. Los libros permiten distinguir los activos y pasivos de cada sociedad.
+
+## Caso 4 · Pregunta 1
+
+¿Para qué se fija la fecha inicial de cesación de pagos?
+
+## Caso 4 · Respuesta 1
+
+**¿Para qué se fija la fecha inicial de cesación de pagos?**
+
+Delimita el período de sospecha, que va desde esa fecha hasta la sentencia de quiebra. La fecha firme hace cosa juzgada respecto de quienes intervinieron en su determinación y vale como presunción que admite prueba en contrario frente a terceros (arts. 115 y 116).
+
+## Caso 4 · Pregunta 2
+
+¿Cómo se discute esa fecha y qué límite tiene su retroacción?
+
+## Caso 4 · Respuesta 2
+
+**¿Cómo se discute esa fecha y qué límite tiene su retroacción?**
+
+Los interesados pueden observar la fecha propuesta dentro de los 30 días siguientes a la presentación del informe general. El juez resuelve y la decisión es apelable en los términos del art. 117. A los efectos de esta sección, la retroacción no puede exceder dos años desde la sentencia de quiebra o la presentación en concurso preventivo, según corresponda (arts. 116 y 117).
+
+## Caso 4 · Pregunta 3
+
+¿Qué pasa con la donación, el pago anticipado y la hipoteca del caso?
+
+## Caso 4 · Respuesta 3
+
+**¿Qué pasa con la donación, el pago anticipado y la hipoteca del caso?**
+
+Los tres actos encuadran en el art. 118. La donación es gratuita. La deuda pagada anticipadamente vencía el día de la quiebra o después. La garantía se constituyó para una obligación anterior no vencida que originalmente carecía de ella. El juez declara su ineficacia frente a los acreedores sin acción ni trámite previo, con las vías de revisión legales.
+
+## Caso 4 · Pregunta 4
+
+¿La venta a precio bajo se declara ineficaz automáticamente?
+
+## Caso 4 · Respuesta 4
+
+**¿La venta a precio bajo se declara ineficaz automáticamente?**
+
+No. Se demanda la ineficacia del art. 119. Debe acreditarse que el acto se otorgó en el período de sospecha y que el comprador conocía la cesación de pagos. El comprador tiene la carga de probar que el acto no causó perjuicio. El precio muy bajo es un dato concreto del perjuicio.
+
+## Caso 4 · Pregunta 5
+
+¿Quién puede iniciar esa acción si el síndico no actúa?
+
+## Caso 4 · Respuesta 5
+
+**¿Quién puede iniciar esa acción si el síndico no actúa?**
+
+El síndico actúa previa autorización de la mayoría simple del capital quirografario verificado y admitido. Si no demanda, un acreedor interesado puede hacerlo a su costa después de intimarlo judicialmente y esperar 30 días. El resultado favorable aprovecha a la masa y la ley reconoce al acreedor los gastos y una preferencia limitada (arts. 119 y 120).
+
+## Caso 4 · Pregunta 6
+
+¿La quiebra de una sociedad se extiende automáticamente a sus accionistas?
+
+## Caso 4 · Respuesta 6
+
+**¿La quiebra de una sociedad se extiende automáticamente a sus accionistas?**
+
+No. El art. 160 alcanza a los socios con responsabilidad ilimitada y contempla el alcance legal respecto de quienes se retiraron o fueron excluidos. El accionista de una SA no queda incluido por el solo hecho de ser accionista.
+
+## Caso 4 · Pregunta 7
+
+¿El control societario basta para extender la quiebra a la controlante?
+
+## Caso 4 · Respuesta 7
+
+**¿El control societario basta para extender la quiebra a la controlante?**
+
+El control por sí solo es insuficiente. Aquí hay un supuesto del art. 161 inc. 2 porque la controlante desvió indebidamente el interés social de la controlada, sometiéndola a una dirección unificada en beneficio propio. Los otros supuestos del art. 161 son la actuación bajo apariencia de la fallida en interés personal y fraude a acreedores, y la confusión patrimonial inescindible.
+
+## Caso 4 · Pregunta 8
+
+¿Quién pide la extensión y ante qué juez?
+
+## Caso 4 · Respuesta 8
+
+**¿Quién pide la extensión y ante qué juez?**
+
+Puede pedirla el síndico o cualquier acreedor ante el juez de la quiebra principal. El pedido puede formularse desde la declaración hasta seis meses después de presentado el informe general, con las reglas especiales del art. 163. Si se declara la extensión, la radicación se determina según el art. 162.
+
+## Caso 4 · Pregunta 9
+
+¿El director y el tercero responden por los mismos conceptos?
+
+## Caso 4 · Respuesta 9
+
+**¿El director y el tercero responden por los mismos conceptos?**
+
+El director que dolosamente produjo, facilitó, permitió o agravó la situación patrimonial o la insolvencia indemniza los perjuicios. El tercero que participó dolosamente en actos tendientes a disminuir el activo o exagerar el pasivo debe reintegrar lo que conserva, indemnizar los daños y pierde el derecho a reclamar en el concurso (art. 173).
+
+## Caso 4 · Pregunta 10
+
+¿Cómo se ejerce la acción de responsabilidad y qué pasa con otras acciones societarias?
+
+## Caso 4 · Respuesta 10
+
+**¿Cómo se ejerce la acción de responsabilidad y qué pasa con otras acciones societarias?**
+
+El síndico ejerce la acción concursal con la autorización exigida por los arts. 119 y 174. Alcanza los actos hasta un año antes de la fecha inicial de cesación de pagos y prescribe a los dos años de la sentencia de quiebra. El síndico también puede ejercer las acciones societarias correspondientes y pedir medidas cautelares si se reúnen los requisitos (arts. 174 a 176).
+
+## Caso 5 · La venta de la planta de Envases del Litoral SA
+
+La quiebra de Envases del Litoral SA tiene una planta en marcha, máquinas prendadas y repuestos obsoletos. No hay recurso de reposición ni pedido de conversión pendiente. Una cooperativa de trabajo integrada por exempleados quiere comprar la planta y aplicar créditos laborales cedidos voluntariamente. El banco prendario piensa ofertar por su máquina y compensar el precio con el crédito. Quedaron repuestos de escaso valor cuya subasta sería antieconómica. Vendidos los bienes principales, el síndico debe informar ingresos, gastos y proponer la distribución. En una variante anterior a la última venta, la fallida obtiene conformidades para concluir. En otra, el producido alcanza para pagar íntegramente los créditos, las reservas y las costas.
+
+## Caso 5 · Pregunta 1
+
+¿Cuándo comienza la liquidación y cómo se elige la forma de venta?
+
+## Caso 5 · Respuesta 1
+
+**¿Cuándo comienza la liquidación y cómo se elige la forma de venta?**
+
+La realiza el síndico y comienza de inmediato, salvo los supuestos del art. 203, como reposición, conversión admitida o continuación de la explotación. La ley prefiere vender la empresa como unidad, luego los bienes del establecimiento en conjunto y finalmente bienes singulares, según lo más conveniente para el concurso (arts. 203 y 204).
+
+## Caso 5 · Pregunta 2
+
+¿Puede la cooperativa ofertar usando créditos laborales?
+
+## Caso 5 · Respuesta 2
+
+**¿Puede la cooperativa ofertar usando créditos laborales?**
+
+Sí. Puede solicitar la adquisición y compensar el precio con créditos laborales comprendidos por el art. 203 bis, cedidos voluntariamente por sus titulares. La cesión se formaliza en audiencia ante el juez con intervención sindical. Esta es una excepción al régimen general de compensación del precio.
+
+## Caso 5 · Pregunta 3
+
+¿Puede el banco prendario compensar su oferta con el crédito?
+
+## Caso 5 · Respuesta 3
+
+**¿Puede el banco prendario compensar su oferta con el crédito?**
+
+Solo en la medida en que su crédito tenga garantía real sobre ese mismo bien. Debe afianzar el derecho de acreedores de mejor rango antes de la transferencia. Un acreedor quirografario que compra no puede compensar por la sola condición de acreedor (art. 211).
+
+## Caso 5 · Pregunta 4
+
+¿Cuándo procede la venta directa de los repuestos?
+
+## Caso 5 · Respuesta 4
+
+**¿Cuándo procede la venta directa de los repuestos?**
+
+El juez puede disponerla previa vista al síndico y a la cooperativa si continúa la explotación, cuando la naturaleza o escaso valor de los bienes, o el fracaso de otra forma de venta, hacen evidente su utilidad para el concurso. La operación requiere aprobación judicial posterior (art. 213).
+
+## Caso 5 · Pregunta 5
+
+¿Qué puede hacer el juez con los repuestos que resulten invendibles?
+
+## Caso 5 · Respuesta 5
+
+**¿Qué puede hacer el juez con los repuestos que resulten invendibles?**
+
+Puede entregarlos a una asociación de bien público, previa vista al síndico y al deudor. También procede cuando su realización es infructuosa. El auto es apelable por el síndico y el deudor que hayan formulado oposición expresa y fundada (art. 214).
+
+## Caso 5 · Pregunta 6
+
+¿Cuándo se presenta el informe final y qué contiene?
+
+## Caso 5 · Respuesta 6
+
+**¿Cuándo se presenta el informe final y qué contiene?**
+
+El síndico lo presenta diez días después de aprobada la última enajenación. Rinde cuentas con comprobantes, informa el resultado de cada venta, individualiza bienes no vendidos y créditos no cobrados y presenta el proyecto de distribución con las reservas necesarias (art. 218).
+
+## Caso 5 · Pregunta 7
+
+¿Cómo se controla el proyecto antes de pagar los dividendos?
+
+## Caso 5 · Respuesta 7
+
+**¿Cómo se controla el proyecto antes de pagar los dividendos?**
+
+Se publicitan el informe y el proyecto en los términos del art. 218. El fallido y los acreedores pueden formular observaciones dentro de diez días, limitadas a omisiones, errores o falsedades. El juez resuelve las observaciones y la distribución se ajusta según corresponda. Aprobada la distribución, se paga el dividendo (arts. 218 y 221).
+
+## Caso 5 · Pregunta 8
+
+¿Qué exige el avenimiento y hasta cuándo puede pedirse?
+
+## Caso 5 · Respuesta 8
+
+**¿Qué exige el avenimiento y hasta cuándo puede pedirse?**
+
+El deudor necesita el consentimiento de todos los acreedores verificados, expresado con firmas autenticadas. Puede pedirlo desde la verificación hasta la última enajenación, con excepción de los créditos, cuya realización no cierra esa oportunidad. En la variante planteada todavía puede solicitarlo. El juez puede exigir depósitos para créditos pendientes o acreedores no localizados y fija garantía para costas y gastos (arts. 225 y 226).
+
+## Caso 5 · Pregunta 9
+
+¿Qué efectos tiene el avenimiento y qué ocurre si luego se incumple un arreglo individual?
+
+## Caso 5 · Respuesta 9
+
+**¿Qué efectos tiene el avenimiento y qué ocurre si luego se incumple un arreglo individual?**
+
+Cesa la quiebra y sus efectos patrimoniales. Se conservan los actos ya cumplidos por el síndico o los coadministradores. El incumplimiento de un arreglo usado para obtener conformidad no reabre esa quiebra. El acreedor puede pedir una nueva si concurren sus presupuestos (art. 227).
+
+## Caso 5 · Pregunta 10
+
+¿Cuándo concluye por pago total y qué se hace con el remanente?
+
+## Caso 5 · Respuesta 10
+
+**¿Cuándo concluye por pago total y qué se hace con el remanente?**
+
+Cuando el activo permite pagar créditos verificados, pendientes y gastos y costas, se declara la conclusión una vez aprobada la distribución definitiva. Si sobra dinero, se pagan los intereses suspendidos según los privilegios y se devuelve el saldo al deudor. También se aplica el régimen si se agregan cartas de pago autenticadas de todos los acreedores y se satisfacen los gastos (arts. 228 y 229).
+
+## Fuente normativa
+
+[Ley 24.522 de Concursos y Quiebras · Texto actualizado](https://www.argentina.gob.ar/normativa/nacional/ley-24522-1995-25379/actualizacion)

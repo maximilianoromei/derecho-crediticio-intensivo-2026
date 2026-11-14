@@ -1,0 +1,9 @@
+/* Presentación Derecho Concursal */
+.reveal { font-family: "Aptos", "Arial", sans-serif; color: #172a42; }
+.reveal .slides { text-align: left; }
+.reveal h2 { color: #15365c; font-size: 1.5em; font-weight: 750; border-bottom: 4px solid #c29b45; padding-bottom: .18em; margin-bottom: .5em; }
+.reveal p, .reveal li { font-size: .78em; line-height: 1.35; }
+.reveal strong { color: #173b67; }
+.reveal ol { margin-left: 1.15em; }
+.reveal li { margin-bottom: .36em; }
+.reveal .slide-number { color: #173b67; background: #f3f4f7; }
